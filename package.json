@@ -1,0 +1,21 @@
+
+{
+  "name": "lathika-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "fullstack",
+    "web-development"
+  ],
+  "author": "Lathika V",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
